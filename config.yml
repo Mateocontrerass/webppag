@@ -2,7 +2,7 @@ baseURL: "https://mateocontreras.onrender.com/"
 languageCode: en-us
 title: Mateo Contreras
 theme: PaperMod
-paginate: 2
+paginate: 5
 
 enableRobotsTXT: true
 buildDrafts: true
@@ -44,7 +44,7 @@ params:
   disableSpecial1stPost: false
   disableScrollToTop: false
   # See https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/#comments
-  comments: true
+  comments: false
   hidemeta: false
   hideSummary: false
   showtoc: true
@@ -62,6 +62,7 @@ params:
   # Necessary for post nav links to show up on /posts and /projects
   # https://github.com/adityatelange/hugo-PaperMod/issues/940
   mainSections:
+    - home
     - about
     - projects
     - search
@@ -105,7 +106,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: ""
+    Title: "Home"
     Content: |
       
 
