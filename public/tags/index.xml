@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Mateo Contreras</title>
-    <link>https://main--cheerful-mousse-b9d87b.netlify.app/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Mateo Contreras</description>
     <image>
       <title>Mateo Contreras</title>
-      <url>https://main--cheerful-mousse-b9d87b.netlify.app/lucky_block.png</url>
-      <link>https://main--cheerful-mousse-b9d87b.netlify.app/lucky_block.png</link>
+      <url>lucky_block.png</url>
+      <link>lucky_block.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Sep 2023 18:08:42 -0400</lastBuildDate><atom:link href="https://main--cheerful-mousse-b9d87b.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Sep 2023 18:08:42 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flowers</title>
-      <link>https://main--cheerful-mousse-b9d87b.netlify.app/tags/flowers/</link>
+      <link>/tags/flowers/</link>
       <pubDate>Fri, 01 Sep 2023 18:08:42 -0400</pubDate>
       
-      <guid>https://main--cheerful-mousse-b9d87b.netlify.app/tags/flowers/</guid>
+      <guid>/tags/flowers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image Processing</title>
-      <link>https://main--cheerful-mousse-b9d87b.netlify.app/tags/image-processing/</link>
+      <link>/tags/image-processing/</link>
       <pubDate>Fri, 01 Sep 2023 18:08:42 -0400</pubDate>
       
-      <guid>https://main--cheerful-mousse-b9d87b.netlify.app/tags/image-processing/</guid>
+      <guid>/tags/image-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://main--cheerful-mousse-b9d87b.netlify.app/tags/python/</link>
+      <link>/tags/python/</link>
       <pubDate>Fri, 01 Sep 2023 18:08:42 -0400</pubDate>
       
-      <guid>https://main--cheerful-mousse-b9d87b.netlify.app/tags/python/</guid>
+      <guid>/tags/python/</guid>
       <description></description>
     </item>
     
