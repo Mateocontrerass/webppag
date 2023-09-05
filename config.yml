@@ -62,8 +62,9 @@ params:
   # Necessary for post nav links to show up on /posts and /projects
   # https://github.com/adityatelange/hugo-PaperMod/issues/940
   mainSections:
-    - posts
+    - about
     - projects
+    - search
 
   assets:
     favicon: "favicon/favicon"
