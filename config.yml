@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://mateocontreras.onrender.com/"
 languageCode: en-us
 title: Mateo Contreras
 theme: PaperMod
@@ -105,10 +105,9 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: ""
     Content: |
-      Welcome to my blog
-      Multi-line string with \n separating them
+      
 
   socialIcons:
     # - name: cv
